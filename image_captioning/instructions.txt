@@ -1,0 +1,26 @@
+python3 -m venv imageCaption
+
+source imageCaption/bin/activate
+
+ pip3 install chainer==1.19.0
+ pip3 install scipy
+ pip3 install h5py
+ pip3 install pillow
+ pip3 install fastapi
+ pip3 install opencv-python-headless
+ pip3 install requests
+
+ apt-get install python-h5py
+
+
+
+ deactivate
+
+
+
+
+elif isinstance(value, collections.abc.Sequence):
+imageCaption/lib/python3.10/site-packages/chainer/link.py
+imageCaption/lib/python3.10/site-packages/chainer/functions/pooling/pooling_2d.py
+imageCaption/lib/python3.10/site-packages/chainer/functions/array/get_item.py
+imageCaption/lib/python3.10/site-packages/chainer/functions/split_axis.py

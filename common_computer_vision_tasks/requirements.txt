@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+opencv-python
+pydantic
+tflite-runtime
+jinja2
+ultralytics
+websockets
